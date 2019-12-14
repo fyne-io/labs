@@ -1,12 +1,14 @@
 html, body {
-    background-image: url(background.jpg);
-    background-size: cover;
-    background-position: 50%;
-
     padding: 0;
     margin: 0;
 
     font-family: sans-serif;
+}
+
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-position: 50%;
 }
 
 h1 {
